@@ -1,0 +1,33 @@
+{
+  "name": "jwt-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virasack/jwt-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virasack/jwt-project/issues"
+  },
+  "homepage": "https://github.com/Virasack/jwt-project#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.23.0",
+    "babelify": "^7.3.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "latest",
+    "morgan": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
