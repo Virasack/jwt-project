@@ -1,5 +1,5 @@
 module.exports = {
-	'secret': 'putsomethingtopsecret',
+	'secret': 'putSomethingTopSecret',
 	'database':'mongodb://localhost:27017/mycustomers'
 
 }
